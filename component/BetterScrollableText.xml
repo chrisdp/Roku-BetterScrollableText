@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<component name="BetterScrollableText" extends="Group">
+  <interface>
+    <field id="text" type="String" onChange="_onTextChange" />
+  </interface>
+
+  <script type="text/brightscript" uri="BetterScrollableText.brs" />
+</component>
